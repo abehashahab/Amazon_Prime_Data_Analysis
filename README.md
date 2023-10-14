@@ -1,6 +1,6 @@
 # Amazon_Prime_Data_Analysis
 
-![Amazon_prime](https://github.com/abehashahab/Amazon_Prime_Data_Analysis/assets/18510258/9654acad-de6e-4b3f-aa1d-002d0dfddf43)
+![Amazon_prime](https://github.com/abehashahab/Amazon_Prime_Data_Analysis/assets/18510258/8c0dc4c3-ac0f-4ae1-ae4b-eaffeaf95f08)
 
 **Project Overview**
 In this data analysis project, I have examined Amazon Prime's collection of movies and TV shows from the release years 1920 to 2021. The dataset consists of 9,331 total shows (combining both movies and TV shows) categorized into 24 unique rating categories and classified into 512 distinct genres. The analysis primarily focuses on identifying key insights related to content ratings, distribution between movies and TV shows, popular genres, and the geographical origin of shows.
